@@ -62,6 +62,10 @@
 <img align="left" alt="Media encoder" width="26px" src="./img/encoder.svg" style="padding-right:10px; padding-top:10px" />
 <img align="left" alt="Photoshop" width="26px" src="./img/photoshop.svg" style="padding-right:10px; padding-top:10px" />
 
+<br/>
+
+### Github Status
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
