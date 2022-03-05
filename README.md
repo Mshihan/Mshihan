@@ -54,9 +54,12 @@
 
 <br/>
 
-### Adobe Creative Cloud Apps
+### Creative Cloud Apps
 
 <img align="left" alt="After Effects" width="26px" src="./img/after-effects.svg" style="padding-right:10px; padding-top:10px" />
-<img align="left" alt="After Effects" width="26px" src="./img/premiere-pro.svg" style="padding-right:10px; padding-top:10px" />
+<img align="left" alt="Premiere pro" width="26px" src="./img/premiere-pro.svg" style="padding-right:10px; padding-top:10px" />
+<img align="left" alt="Illustrator" width="26px" src="./img/illustrator.svg" style="padding-right:10px; padding-top:10px" />
+<img align="left" alt="Media encoder" width="26px" src="./img/encoder.svg" style="padding-right:10px; padding-top:10px" />
+<img align="left" alt="Photoshop" width="26px" src="./img/photoshop.svg" style="padding-right:10px; padding-top:10px" />
 
 [youtube]: https://www.youtube.com/channel/UCyAIFPi3AjUJ4772Ur4AyMw
