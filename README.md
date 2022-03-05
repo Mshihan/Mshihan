@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed Sihan - aka [Codeking][youtube] 👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyAIFPi3AjUJ4772Ur4AyMw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=mshihan.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shihan167.wixsite.com/my-site/)
+[![Website](https://img.shields.io/website?label=mshihan.com&style=for-the-badge)](https://shihan167.wixsite.com/my-site/)
 
 ## I'm a Husband, Developer, Crypto Trader and Teacher!!
 
@@ -51,5 +51,12 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; padding-top:10px" />
 <img align="left" alt="Visual Studio" width="26px" src="./img/visualstudio.png" style="padding-right:10px; padding-top:10px; fill: #68217A" />
 <img align="left" alt="GitHub" width="26px" src="./img/android-studio.svg" style="padding-right:10px; padding-top:10px" />
+
+<br/>
+
+### Adobe Creative Cloud Apps
+
+<img align="left" alt="After Effects" width="26px" src="./img/after-effects.svg" style="padding-right:10px; padding-top:10px" />
+<img align="left" alt="After Effects" width="26px" src="./img/premiere-pro.svg" style="padding-right:10px; padding-top:10px" />
 
 [youtube]: https://www.youtube.com/channel/UCyAIFPi3AjUJ4772Ur4AyMw
