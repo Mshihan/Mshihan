@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed Sihan - aka [Codeking][youtube] 👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyAIFPi3AjUJ4772Ur4AyMw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=mshihan.com&style=for-the-badge)](https://shihan167.wixsite.com/my-site/)
+[![Website](https://img.shields.io/website?label=mshihan.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shihan167.wixsite.com/my-site/)
 
 ## I'm a Husband, Developer, Crypto Trader and Teacher!!
 
