@@ -12,11 +12,11 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://shihan167.wixsite.com/my-site#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://shihan167.wixsite.com/my-site#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://shihan167.wixsite.com/my-site)
+[![website](./img/globe-dark.svg)](https://shihan167.wixsite.com/my-site)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCyAIFPi3AjUJ4772Ur4AyMw#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCyAIFPi3AjUJ4772Ur4AyMw#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
