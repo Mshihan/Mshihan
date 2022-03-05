@@ -63,6 +63,7 @@
 <img align="left" alt="Photoshop" width="26px" src="./img/photoshop.svg" style="padding-right:10px; padding-top:10px" />
 
 <br/>
+<br/>
 
 ### Github Status
 
