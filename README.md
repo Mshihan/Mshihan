@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with content creators and developers
 - 🥅 2022 Goals: Learn more about web3 and blockchain
-- ⚡ Fun fact: I love to draw and play guitar / drums and soccer ⚽⚽
+- ⚡ Fun fact: I love to draw and play guitar 🎸 / flute 🎵 and soccer ⚽
 - 😻 Javascript Lover
 
 ### Connect with me:
